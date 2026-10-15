@@ -1,0 +1,11 @@
+id,diem_giao,so_canh,chi_phi,loi_ich,tuyen_di,duoc_chon,da_giao,trang_thai
+1,4,2,7,3,1-3-4,0,0,khong_chon
+2,5,2,7,12,1-3-5,1,1,da_giao
+3,6,3,8,6,1-3-5-6,0,0,khong_chon
+4,6,3,7,5,1-3-5-6,0,0,khong_chon
+5,3,1,5,9,1-3,1,1,da_giao
+6,2,1,5,5,1-2,1,1,da_giao
+7,4,2,7,11,1-3-4,1,1,da_giao
+8,3,1,5,2,1-3,0,0,khong_chon
+9,3,1,5,7,1-3,1,1,da_giao
+10,6,3,7,5,1-3-5-6,0,0,khong_chon
